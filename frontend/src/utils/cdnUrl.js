@@ -1,0 +1,1 @@
+export const cdnUrl= "http://localhost:8000/upload/"

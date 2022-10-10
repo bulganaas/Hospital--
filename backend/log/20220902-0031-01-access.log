@@ -1,0 +1,8 @@
+::1 - - [01/Sep/2022:09:53:10 +0000] "POST /api/v1/users/login HTTP/1.1" 200 425 "-" "PostmanRuntime/7.29.2"
+::1 - - [01/Sep/2022:09:56:13 +0000] "POST /api/v1/users HTTP/1.1" 500 458 "-" "PostmanRuntime/7.29.2"
+::1 - - [01/Sep/2022:09:58:15 +0000] "POST /api/v1/users HTTP/1.1" 500 478 "-" "PostmanRuntime/7.29.2"
+::1 - - [01/Sep/2022:09:58:21 +0000] "POST /api/v1/users HTTP/1.1" 200 421 "-" "PostmanRuntime/7.29.2"
+::1 - - [01/Sep/2022:10:05:32 +0000] "POST /api/v1/rooms/room HTTP/1.1" 200 176 "-" "PostmanRuntime/7.29.2"
+::1 - - [01/Sep/2022:10:05:56 +0000] "GET /api/v1/rooms/room HTTP/1.1" 200 850 "-" "PostmanRuntime/7.29.2"
+::1 - - [01/Sep/2022:10:06:45 +0000] "PUT /api/v1/rooms/631083ec92a17055b49f94cc HTTP/1.1" 401 183 "-" "PostmanRuntime/7.29.2"
+::1 - - [01/Sep/2022:10:14:35 +0000] "PUT /api/v1/rooms/631083ec92a17055b49f94cc HTTP/1.1" 200 176 "-" "PostmanRuntime/7.29.2"

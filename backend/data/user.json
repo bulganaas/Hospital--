@@ -1,0 +1,30 @@
+[
+        {
+            "role": "doctor",
+            "_id": "630887446b6bc60504a219b7",
+            "name": "Naraa",
+            "email": "Naraa@gmail.com",
+            "password": "12345"
+        },
+        {
+          "role": "doctor",
+          "_id": "63089246b4494f080ced74ab",
+          "name": "Munkhuu",
+          "email": "Munkhuu123@gmail.com",
+          "password": "12345"
+        },
+        {
+          "role": "patient",
+          "_id": "6310823c92a17055b49f94c9",
+          "name": "boldoo",
+          "email": "boldoo@gmail.com",
+          "password": "12356"
+        },
+        {
+          "role": "admin",
+          "_id": "6312f676c27aee5224657b5c",
+          "name": "Bulgan",
+          "email": "Bulgan@gmail.com",
+          "password": "12345"
+        }
+    ]

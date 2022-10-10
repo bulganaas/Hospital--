@@ -1,0 +1,110 @@
+[
+  {
+    "photo": "lit.jpg",
+    "_id": "630784005193b01ac07d4d0b",
+    "RoomNo": 1,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "630784005193b01ac07d4d0b"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "6308524ca4409d15e43d689f",
+    "RoomNo": 3,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "6308524ca4409d15e43d689f"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "63085256a4409d15e43d68a1",
+    "RoomNo": 4,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "63085256a4409d15e43d68a1"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "630852f2b379471e8c746634",
+    "RoomNo": 5,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "630852f2b379471e8c746634"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "631083ec92a17055b49f94cc",
+    "RoomNo": 12,
+    "Location": "2 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "631083ec92a17055b49f94cc"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "6312f6a4c27aee5224657b5f",
+    "RoomNo": 2,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "6312f6a4c27aee5224657b5f"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "6312f6b4c27aee5224657b61",
+    "RoomNo": 6,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "6312f6b4c27aee5224657b61"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "6312f6bfc27aee5224657b63",
+    "RoomNo": 7,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "6312f6bfc27aee5224657b63"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "6312f6c7c27aee5224657b65",
+    "RoomNo": 8,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "6312f6c7c27aee5224657b65"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "6312f6d3c27aee5224657b67",
+    "RoomNo": 9,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "6312f6d3c27aee5224657b67"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "6312f6d9c27aee5224657b69",
+    "RoomNo": 10,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "6312f6d9c27aee5224657b69"
+  },
+  {
+    "photo": "no-photo.jpg",
+    "_id": "6312f6e3c27aee5224657b6b",
+    "RoomNo": 11,
+    "Location": "1 байр",
+    "slug": "undefined",
+    "__v": 0,
+    "id": "6312f6e3c27aee5224657b6b"
+  }
+]
